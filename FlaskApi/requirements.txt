@@ -1,0 +1,18 @@
+#At first create virtual for python 3.7 env then activate env and run 'python -m pip install -r requirements.txt'
+flask
+flask-sqlalchemy
+# MySQL
+# PyMySQL
+# Postgres
+# psycopg2
+# MSSQL
+pyodbc
+# Oracle
+# cx_Oracle
+# pyodbc 
+pandas 
+#re
+jellyfish
+numpy 
+fuzzywuzzy
+#difflib 
